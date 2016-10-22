@@ -20,7 +20,7 @@ $ consul agent -dev -advertise=127.0.0.1
 $ go run main.go
 ```
 
-### Run uberserver under gin (github.com/codegansta/gin) - continouos uberserver rebuild, restart on file save
+### Run uberserver under gin (github.com/codegangsta/gin) - continouos uberserver rebuild, restart on file save
 
 ```
 $ ./gin-uber.sh
